@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api/MQ-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api/message-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/api/user-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/MQ-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/message-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/user-service" charset="UTF-8" />
+  </component>
+</project>

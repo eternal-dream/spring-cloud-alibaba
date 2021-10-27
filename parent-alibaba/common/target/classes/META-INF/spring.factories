@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+    com.eternal.common.config.aspect.LogAspect\
+  ,com.eternal.common.util.yml.YmlReadUtil
